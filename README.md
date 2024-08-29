@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **next js**
 
-- 💬 Ask me about **html , css , scss , bootstarp , tailwind , material ui , javascript , react , redux , node js , express , mongo db and mysql**
+- 💬 Ask me about **html , css , scss , bootstarp , tailwind , material ui , javascript , react , redux , node js , express , prisma , shadcn , mongo db and mysql**
 
 - 📫 How to reach me **miladsalami1385@gmail.com**
 

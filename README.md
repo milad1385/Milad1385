@@ -7,11 +7,10 @@
   <img align="center" width="450" height="350" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"/>
 </div>
 
-- 🔭 I’m currently working on **namava template**
+- 🔭 I’m currently working on **websites template**
 
-- 🌱 I’m currently learning **next js**
 
-- 💬 Ask me about **html , css , scss , bootstarp , tailwind , material ui , javascript , react , redux , node js , express , prisma , shadcn , mongo db and mysql**
+- 💬 Ask me about **html , css , scss , bootstarp , tailwind , material ui , javascript , react , next js , redis , react native , redux , node js , express , prisma , shadcn , mongo db and mysql**
 
 - 📫 How to reach me **miladsalami1385@gmail.com**
 

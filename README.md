@@ -3,7 +3,8 @@
 </p>
 <h1 align="center">Hi 👋, I'm Milad salamian</h1>
 <div>
-  <p>👨‍💻  About Me: As a Front End developer with Three years of dedicated learning and practical experience , A passionate Front End developer 🙌 , good to see you my friend ❤️  </p>
+  <h3 style="margin-bottom : 20px">👨‍💻  About Me : </h3>
+  <p>As a Front End developer with Three years of dedicated learning and practical experience , A passionate Front End developer 🙌 , good to see you my friend ❤️  </p>
 </div>
 <div align="center">
   <img align="center" width="450" height="350" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"/>

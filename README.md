@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Profile!;I+am+Milad+salamian🖐;I+am+a+Front+End+Developer💻;Its pleasure to see you again:);&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=2000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Profile ❤️;I+am+Milad+salamian🖐;I+am+a+Front+End+Developer💻;It's pleasure to see you again:);&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=2000" alt="Example Usage - README Typing SVG">
 </p>
 <h1 align="center">Hi 👋, I'm Milad salamian</h1>
 <div>

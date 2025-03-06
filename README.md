@@ -43,7 +43,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milad1385&" alt="milad1385" /></p>
 
 
-<a href="https://gitroll.io/profile/uHzKCtcIDD1TV8tDlV6HOHliw6hn2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uHzKCtcIDD1TV8tDlV6HOHliw6hn2?theme=dark" alt="GitRoll Profile Badge" style="height: 280px;" /></a>
+
 
 
 

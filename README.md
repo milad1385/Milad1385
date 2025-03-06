@@ -2,7 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Profile!;I+am+Milad+salamian🖐;I+am+a+mern+stack+Developer💻;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=2000" alt="Example Usage - README Typing SVG">
 </p>
 <h1 align="center">Hi 👋, I'm Milad salamian</h1>
-<h3 align="center">A passionate Mern stack developer 🙌</h3>
+<div>
+  <p>👨‍💻  About Me: As a Front End developer with Three years of dedicated learning and practical experience , A passionate Front End developer 🙌 , good to see you my friend ❤️  </p>
+</div>
 <div align="center">
   <img align="center" width="450" height="350" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"/>
 </div>

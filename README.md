@@ -26,9 +26,6 @@
 <a href="https://www.instagram.com/miladcoder" rel="nofollow"><img src="https://camo.githubusercontent.com/65097ac45be982e8da5b6027e4cdc71e4e3d02b1aa648ac82d48970d10321ddd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f6c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;"></a></p>
 </div>
 
-<div align="center">
-  <img align="center" width="450" height="350" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"/>
-</div>
 
 
 
@@ -41,6 +38,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milad1385&show_icons=true&locale=en" alt="milad1385" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milad1385&" alt="milad1385" /></p>
+
+
+<div align="center">
+  <img align="center" width="450" height="350" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"/>
+</div>
 
 
 

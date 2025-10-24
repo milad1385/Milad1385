@@ -64,7 +64,7 @@
     </a>
 
      <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-      <img src="https://camo.githubusercontent.com/61bf483301313f919312bc95fd53a177e5f277bc73955af58afcfe26fdccd27a/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6573746a73696f2f6a6573746a73696f2d69636f6e2e737667" alt="jest" width="50" height="50"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZWXJQFAtSrfv0RBr2mABKnj2J3VvxLCqq5A&s" alt="jest" width="50" height="50"/>
     </a>
   </div>
 </div> 

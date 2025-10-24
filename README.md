@@ -62,6 +62,9 @@
     <a href="https://graphql.org" target="_blank" rel="noreferrer">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT98DxugSAuOVaFkvEL8Lz8Xxl-oCrSVx1dvg&s" alt="graphql" width="50" height="50"/>
     </a>
+    <a href="https://socket.io" target="_blank" rel="noreferrer">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0AiP90HGmNnhcqhVV5kGj7QMWxfG-j-q1ZA&s" alt="graphql" width="50" height="50"/>
+    </a>
   </div>
 </div> 
 

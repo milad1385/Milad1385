@@ -62,10 +62,6 @@
     <a href="https://graphql.org" target="_blank" rel="noreferrer">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT98DxugSAuOVaFkvEL8Lz8Xxl-oCrSVx1dvg&s" alt="graphql" width="50" height="50"/>
     </a>
-
-     <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZWXJQFAtSrfv0RBr2mABKnj2J3VvxLCqq5A&s" alt="jest" width="50" height="50"/>
-    </a>
   </div>
 </div> 
 

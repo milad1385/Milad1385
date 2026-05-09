@@ -13,7 +13,7 @@
 
 <div>
   <h3 style="margin-bottom: 20px">👨‍💻 My Expertise :</h3>
-  <div>
+  <div style="display : flex !important;">
     <a href="https://www.w3schools.com/css" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="50" height="50"/>
     </a>

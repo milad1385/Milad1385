@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Profile ❤️;I+am+Milad+salamian🖐;I+am+a+Front+End+Developer💻;It's pleasure to see you again:);&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=2000" alt=" - README Typing SVG">
 </p>
@@ -85,7 +83,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milad1385&show_icons=true&locale=en" alt="milad1385" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milad1385" alt="milad1385" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milad1385&" alt="milad1385" /></p>
 
 
 <div align="center">

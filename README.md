@@ -77,10 +77,6 @@
 <a href="https://t.me/Milad_Mern" rel="nofollow"><img src="https://camo.githubusercontent.com/e81b902b43dd92c9b6935445217f0bfbcce64de199da63f4b452e37f22c04560/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3232394544393f6c6f676f3d54656c656772616d266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" alt="Telegram" data-canonical-src="https://img.shields.io/badge/Telegram-229ED9?logo=Telegram&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;"></a>
 <a href="https://www.instagram.com/milad_mern" rel="nofollow"><img src="https://camo.githubusercontent.com/65097ac45be982e8da5b6027e4cdc71e4e3d02b1aa648ac82d48970d10321ddd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f6c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;"></a></p>
 </div>
-
-
-
-
 <br/>
 
 
@@ -89,7 +85,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milad1385&show_icons=true&locale=en" alt="milad1385" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milad1385&" alt="milad1385" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milad1385" alt="milad1385" /></p>
 
 
 <div align="center">

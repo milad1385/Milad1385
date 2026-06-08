@@ -1,8 +1,9 @@
-<div align="center">
-<h1>Hi 👋, I'm Milad salamian</h1>
 
+<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=25A4F7&width=435&lines=Welcome+To+My+Profile+%E2%9D%A4%EF%B8%8F;I+am+Milad+Salamian;A+passionate+Front+End+developer+%F0%9F%99%8C;It's+pleasure+to+see+you+again+%3A)" alt="Typing SVG" /></a>
 </div>
+
+<h1>Hi 👋, I'm Milad salamian</h1>
 
 <div>
   <h3 style="margin-bottom : 20px">👨‍💻  About Me : </h3>

@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Profile ❤️;I+am+Milad+salamian🖐;I+am+a+Front+End+Developer💻;It's pleasure to see you again:);&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=2000" alt=" - README Typing SVG">
-</p>
+
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=25A4F7&width=435&lines=Welcome+To+My+Profile+%E2%9D%A4%EF%B8%8F;I+am+Milad+Salamian;A+passionate+Front+End+developer+%F0%9F%99%8C;It's+pleasure+to+see+you+again+%3A)" alt="Typing SVG" /></a>
+
 <h1 align="center">Hi 👋, I'm Milad salamian</h1>
 <div>
   <h3 style="margin-bottom : 20px">👨‍💻  About Me : </h3>

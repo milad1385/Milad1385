@@ -7,7 +7,7 @@
 
 <div>
   <h3 style="margin-bottom : 20px">👨‍💻  About Me : </h3>
-  <p>As a Front End developer with Four years of dedicated learning and practical experience , A passionate Front End developer 🙌 good to see you my friend ❤️ , It's an honor to have you visit my open source projects.  </p>
+  <p>As a FrontEnd developer with Four years of dedicated learning and practical experience , A passionate Front End developer 🙌 good to see you my friend ❤️ , It's an honor to have you visit my open source projects.  </p>
 </div>
 
 <br/>
